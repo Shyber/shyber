@@ -164,4 +164,3 @@ Clear documentation matters as much as the technical analysis: a good report let
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
 </p>
->>>>>>> 0497db7 (Shyber's README V1)
