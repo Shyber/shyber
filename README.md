@@ -12,7 +12,7 @@
 
 ## 👋 Hi there
 
-I'm **Shyber**, a **cybersecurity engineering student** with a real passion for the field. I work on it every day, through labs, projects and analysis exercises, to keep improving my skills and to understand how attacks really work and how to stop them.
+I'm **Shyber**, a **cybersecurity engineering student** with a real passion for the field. I work on it constantly, through labs, projects and analysis exercises, to keep improving my skills and to understand how attacks really work and how to stop them.
 
 Right now I'm most drawn to the **Blue Team :** **SOC and detection**, **incident response**, **network security**, **security analyst**, **vulnerability management** and **risk and compliance**.I also enjoy the **offensive** side of security and I have for mission to learn and master most of that with labs and CTFs as soon as possible!!!.
 
