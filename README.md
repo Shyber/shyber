@@ -57,7 +57,6 @@ Right now I'm most drawn to the **Blue Team :** **SOC and detection**, **inciden
   <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge" alt="Suricata">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
   <img src="https://img.shields.io/badge/tcpdump-333333?style=for-the-badge" alt="tcpdump">
-  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal">
 </p>
 
 **Networking**
@@ -91,7 +90,7 @@ Right now I'm most drawn to the **Blue Team :** **SOC and detection**, **inciden
 |---|---|---|
 | **SYN flood analysis** | Analysed a TCP capture, identified the attack coming from an external IP, measured the impact on legitimate clients and wrote an incident report. | `Wireshark` `TCP` |
 | **DDoS on a DNS server** | Analysed captured packets, documented the incident and proposed remediation. | `tcpdump` |
-| **Spear phishing investigation** | Spotted the indicators (spoofed domain, spelling errors, credential-harvesting URL), checked a suspicious file hash and followed a response playbook. | `VirusTotal` `Playbook` |
+| **Spear phishing investigation** | Spotted the indicators (spoofed domain, spelling errors, credential-harvesting URL), checked a suspicious file hash and followed a response playbook. | `Playbook` |
 | **Custom detection rules** | Wrote my own rules, ran packet captures through them and analysed the logs produced. | `Suricata` |
 | **Log investigation** | Queried security events with two different query languages. | `Splunk (SPL)` `Chronicle (YARA-L)` |
 
