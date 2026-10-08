@@ -1,5 +1,10 @@
 
 <!-- Header banner -->
+
+<p align="center">
+  🇬🇧 English · <a href="README.fr.md">🇫🇷 Français <--- Version Française </a>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shyber&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Detect%20%C2%B7%20Analyse%20%C2%B7%20Respond&descAlignY=58&descSize=18" alt="Cybersecurity Student banner" />
 </p>
@@ -163,3 +168,4 @@ Clear documentation matters as much as the technical analysis: a good report let
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
 </p>
+
