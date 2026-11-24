@@ -63,44 +63,44 @@ And I enjoy the **offensive** side too. I'm learning it step by step through lab
 **Detection & analysis**
 
 <p>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk">
-  <img src="https://img.shields.io/badge/Google_Chronicle-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Chronicle">
-  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge" alt="Suricata">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/tcpdump-333333?style=for-the-badge" alt="tcpdump">
-  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal">
+  <img src="assets/badges/splunk.svg" alt="Splunk">
+  <img src="assets/badges/google-chronicle.svg" alt="Google Chronicle">
+  <img src="assets/badges/suricata.svg" alt="Suricata">
+  <img src="assets/badges/wireshark.svg" alt="Wireshark">
+  <img src="assets/badges/tcpdump.svg" alt="tcpdump">
+  <img src="assets/badges/virustotal.svg" alt="VirusTotal">
 </p>
 
 **Networking**
 
 <p>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
-  <img src="https://img.shields.io/badge/GNS3-4B8BBE?style=for-the-badge" alt="GNS3">
-  <img src="https://img.shields.io/badge/EVE--NG-2C5364?style=for-the-badge&logoColor=white" alt="EVE-NG">
-  <img src="https://img.shields.io/badge/BGP_%C2%B7_MPLS_%C2%B7_OSPF-0D1B2A?style=for-the-badge" alt="BGP MPLS OSPF">
-  <img src="https://img.shields.io/badge/VLAN_%C2%B7_VRF-0D1B2A?style=for-the-badge&logoColor=white" alt="VLAN VRF">
+  <img src="assets/badges/cisco.svg" alt="Cisco">
+  <img src="assets/badges/gns3.svg" alt="GNS3">
+  <img src="assets/badges/eve-ng.svg" alt="EVE-NG">
+  <img src="assets/badges/bgp-mpls-ospf.svg" alt="BGP MPLS OSPF">
+  <img src="assets/badges/vlan-vrf.svg" alt="VLAN VRF">
 </p>
 
 **Cloud & systems**
 
 <p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+  <img src="assets/badges/google-cloud.svg" alt="Google Cloud">
+  <img src="assets/badges/docker.svg" alt="Docker">
+  <img src="assets/badges/proxmox.svg" alt="Proxmox">
+  <img src="assets/badges/linux.svg" alt="Linux">
+  <img src="assets/badges/github-actions.svg" alt="GitHub Actions">
+  <img src="assets/badges/gitlab.svg" alt="GitLab">
 </p>
 
 **Programming**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="assets/badges/python.svg" alt="Python">
+  <img src="assets/badges/go.svg" alt="Go">
+  <img src="assets/badges/c.svg" alt="C">
+  <img src="assets/badges/bash.svg" alt="Bash">
+  <img src="assets/badges/sql.svg" alt="SQL">
+  <img src="assets/badges/mongodb.svg" alt="MongoDB">
 </p>
 
 ---
@@ -190,8 +190,8 @@ A good report matters as much as the analysis: it lets someone else understand w
 ## 🏅 Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate">
-  <img src="https://img.shields.io/badge/Cisco-CCNA_courses_1%E2%80%933-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA courses 1 to 3">
+  <img src="assets/badges/google-cybersecurity-professional-certificate.svg" alt="Google Cybersecurity Professional Certificate">
+  <img src="assets/badges/cisco-ccna-courses-1-3.svg" alt="CCNA courses 1 to 3">
 </p>
 
 ---
