@@ -76,9 +76,9 @@ J'aime aussi le côté **offensif**. Je l'apprends pas à pas avec des labs et d
 <p>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
   <img src="https://img.shields.io/badge/GNS3-4B8BBE?style=for-the-badge" alt="GNS3">
-  <img src="https://img.shields.io/badge/EVE--NG-2C5364?style=for-the-badge" alt="EVE-NG">
+  <img src="https://img.shields.io/badge/EVE--NG-2C5364?style=for-the-badge&logoColor=white" alt="EVE-NG">
   <img src="https://img.shields.io/badge/BGP_%C2%B7_MPLS_%C2%B7_OSPF-0D1B2A?style=for-the-badge" alt="BGP MPLS OSPF">
-  <img src="https://img.shields.io/badge/VLAN_%C2%B7_VRF-0D1B2A?style=for-the-badge" alt="VLAN VRF">
+  <img src="https://img.shields.io/badge/VLAN_%C2%B7_VRF-0D1B2A?style=for-the-badge&logoColor=white" alt="VLAN VRF">
 </p>
 
 **Cloud & systèmes**
